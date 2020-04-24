@@ -1,2 +1,2 @@
-FROM centos
-RUN yum install git
+FROM centos:7
+RUN yum install -y git
